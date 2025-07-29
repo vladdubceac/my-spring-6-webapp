@@ -1,4 +1,4 @@
-package md.vladdubceac.spring_6_webapp;
+package md.vladdubceac.spring6webapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

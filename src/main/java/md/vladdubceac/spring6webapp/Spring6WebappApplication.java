@@ -1,4 +1,4 @@
-package md.vladdubceac.spring_6_webapp;
+package md.vladdubceac.spring6webapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
